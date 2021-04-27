@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\New folder\Cara\Cara\bin\Debug\Cara.exe.config
+C:\Users\Asus\Desktop\New folder\Cara\Cara\bin\Debug\Cara.exe
+C:\Users\Asus\Desktop\New folder\Cara\Cara\bin\Debug\Cara.pdb
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.Form1.resources
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.Properties.Resources.resources
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.exe
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.pdb
+C:\Users\Asus\Desktop\New folder\Cara\Cara\obj\Debug\Cara.Form2.resources
+C:\Users\Asus\Desktop\Cara\Cara\Cara\bin\Debug\Cara.exe.config
+C:\Users\Asus\Desktop\Cara\Cara\Cara\bin\Debug\Cara.exe
+C:\Users\Asus\Desktop\Cara\Cara\Cara\bin\Debug\Cara.pdb
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.Form1.resources
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.Form2.resources
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.Properties.Resources.resources
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.exe
+C:\Users\Asus\Desktop\Cara\Cara\Cara\obj\Debug\Cara.pdb
