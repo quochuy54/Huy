@@ -24,7 +24,7 @@ namespace Cara
             {
                 Form1 f = new Form1(textBox1.Text, textBox2.Text);
                 f.Show();               
-                this.Close();               
+                this.Hide();               
             }
         } 
         
